@@ -1,6 +1,3 @@
-<p align="center">
-  <img width=400 src="banner.png">
-</p><br>
 <p>
   <samp>
       - hobbiest developer<br>
