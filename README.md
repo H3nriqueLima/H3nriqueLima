@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**H3nriqueLima/H3nriqueLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width=400 src="banner.png">
+</p><br>
+<p>
+  <samp>
+      - hobbiest developer<br>
+      - linux power user<br><br>
+      skills:<br>
+        - langs: clang, c++, python.<br>
+        - techs: postgreSQL.<br>
+        - tools: pycharm, visual studio.<br><br>
+  </samp>
+</p><br>
