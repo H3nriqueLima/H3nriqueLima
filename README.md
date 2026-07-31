@@ -1,6 +1,6 @@
 <p>
   <samp>
-      - hobbiest developer<br>
+      - hobbyist developer<br>
       - linux power user<br><br>
       skills:<br>
         - langs: intel syntax assembly, clang, c++, python.<br>
