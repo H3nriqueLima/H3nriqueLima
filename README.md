@@ -15,3 +15,12 @@
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" width=50 />
                 
 </p><br>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="170" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=H3nriqueLima&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=000000" 
+  />
+</p>
