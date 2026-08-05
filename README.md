@@ -1,6 +1,6 @@
 <p>
   <samp>
-      - hobbyist developer<br>
+      - hobbyist developer (systems programming, low-Level C/C++ & engines)<br>
       - linux power user<br><br>
       skills:<br>
         - langs: intel syntax assembly, clang, c++, python.<br>
