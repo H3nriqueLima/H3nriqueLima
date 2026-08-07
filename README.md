@@ -3,7 +3,7 @@
       - hobbyist developer (desktop apps, systems programming, low-level C/C++ & engines)<br>
       - linux power user<br><br>
       skills:<br>
-        - langs: intel syntax assembly, clang, c++, python.<br>
+        - langs: assembly (intel + masm/nasm), clang, c++, python.<br>
         - techs: postgreSQL.<br>
         - tools: pycharm, visual studio.<br><br>
   </samp>
